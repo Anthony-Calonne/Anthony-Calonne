@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anthony-Calonne
 - 👀 I’m interested in biology, maths, statistics, informatics, bioinformatic and simulations.
 - 🌱 I’m currently learning biology at Paul Sabatier's University.
-- 💞️ I’m looking to collaborate on everything you'd like if it is in link with biology.
+- 💞️ I’m looking to collaborate on any biology-related subject.
 - 📫 How to reach me  : ac.anthony.calonne@gmail.com
 
 <!---
